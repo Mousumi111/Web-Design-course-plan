@@ -1,0 +1,341 @@
+*{
+	margin:0;
+	padding:0
+}
+.design{
+	border: 1px solid rgba(128, 128, 128, 0.41);
+   padding: 13px 10px;
+}
+.design p{}
+.design-1{
+	
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-1 p{}
+.design-2{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-2 p{}
+.design-3{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-3 p{}
+.design-4{
+	    padding: 3px 10px;
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+}
+.design-4 p{}
+.web{
+    border: 1px solid rgba(128, 128, 128, 0.57);
+    padding: 50px 10px;
+    border-top: 0px;
+}
+.web p{}
+.web-1{}
+.web-1 span{}
+.modal_min{
+	margin-left: 25px;
+}
+.modal_min ol{}
+.modal_min ol li{}
+.modal_min ol li{}
+.modal_min ol li a{}
+.design_5{
+	border: 1px solid rgba(128, 128, 128, 0.4);
+    margin-left: -30px;
+    padding: 8px 10px;
+    border-top: 0px;
+	background: #EAD1DC;	border-left: 0px;
+}
+.design_5 span{}
+.web-7{
+	border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-left: -30px;
+    padding: 45px 10px;
+    border-top: 0px;
+    border-left: 0px;
+	background: #D5A6BD;
+}
+.web-7 span{}
+.design-9{
+	border: 1px solid rgba(128, 128, 128, 0.29);
+    margin-left: -30px;
+    padding: 8px 10px;
+    border-top: 0px;
+    border-left: 0px;
+	background: #C27BA0;
+}
+.design-9 span{    font-size: 12px;}
+.design-10{}
+.design-10 span{}
+.design-11{}
+.design-11 span{}
+.web-9{
+	border: 1px solid gray;
+    margin-left: -30px;
+    background: #A64D79;
+    padding: 35px 10px;
+    border-top: 0px;
+    border-left: 0px;
+}
+.web-9 span{}
+.programm{
+    border: 1px solid rgba(128, 128, 128, 0.57);
+	padding: 234px 8px;
+    border-top: 0px;
+}
+.programm p{    margin-top: -163px;}
+.programm-1{
+    border: 1px solid rgba(128, 128, 128, 0.48);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 10px 3px;
+    background: #D9D2E9;
+}
+.programm-2{
+    border: 1px solid rgba(128, 128, 128, 0.48);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+	padding: 193px 3px;
+    background: #D9D2E9;
+    border-right: 0px;
+}
+.programm-1 span{}
+.programm-2{}
+.programm-2 span{
+	    position: absolute;
+    margin-top: -168px;
+}
+.programm-3{}
+.programm-3 span{}
+.programm-4{
+	border: 1px solid rgba(128, 128, 128, 0.4);
+    margin-left: -31px;
+    padding: 5px 5px;
+    border-left: 0px;
+    border-top: 0px;
+    background: #FFF2CC;
+}
+.programm-p{
+    border: 1px solid rgba(128, 128, 128, 0.41);
+    padding: 39px 10px;
+    margin-left: -30px;
+    background: #FFFFFF;
+    border-top: 0px;
+}
+.programm-s{}
+.programm-4 span{}
+.programm-0{}
+.programm-0 span{}
+.programm-p{}
+.programm-s{
+	border: 1px solid rgba(128, 128, 128, 0.44);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 5px 4px;
+    background: #FFE599;
+}
+.programm-s span{}
+.advance-1{}
+.advance-1 span{}
+.advance-2{}
+.advance-2 span{}
+.advance-3{}
+.advance-3 span{}
+.advance-6{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+    margin-left: -30px;
+    border-left: 0px;
+    border-top: 0px;
+    padding: 71px 10px;
+    background: #FFD966;
+}
+.advance-6 span{}
+.python{}
+.python-1{}
+.python-2{}
+.pythone-22{
+	border: 1px solid rgba(128, 128, 128, 0.38);
+    padding: 10px 10px;
+    margin-top: -308px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #D9EAD3;
+}
+.pythone-22 span{}
+.pythone-23{
+	border: 1px solid rgba(128, 128, 128, 0.38);
+    padding: 10px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #D9EAD3;
+}
+.pythone-33 span{}
+.python-3{
+	border: 1px solid rgba(128, 128, 128, 0.55);
+    margin-top: -305px;
+    margin-left: -30px;
+    padding: 19px 10px;
+    border-top: 0px;
+    border-left: 0px;
+    background: #B6D7A8;
+}
+.python-3 span{}
+.python-4{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+	margin-top: -306px;
+    padding: 9px 10px;
+    margin-left: -31px;
+    border-top: 0px;
+    background: #93C47D;
+    border-left: 0px;
+}
+.python-4 span{}
+.python-5{
+	border: 1px solid rgba(128, 128, 128, 0.69);
+    padding: 10px 10px;
+    margin-left: -31px;
+    border-top: 0px;
+    background: #93C47D;
+    border-left: 0px;
+}
+.python-5 span{}
+.php{}
+.php-1{}
+.php-2{}
+.php-11{
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    margin-top: -227px;
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #C9DAF8;
+}
+.php-11 span{}
+.php-22{
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #C9DAF8;
+}
+.php-22 span{}
+.php-33 {
+	border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 8px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    background: #C9DAF8;
+}
+.php-3  span{}
+.php-4{
+	    border: 1px solid gray;
+    margin-top: -228px;
+    margin-left: -30px;
+    background: #76A5AF;
+    padding: 30px 5px;
+}
+.php-4 span{}
+.wordpress{}
+.wordpress-1{}
+.wordpress-22{
+border: 1px solid rgba(128, 128, 128, 0.54);
+    padding: 17px 10px;
+    margin-left: -30px;
+    background: #C9DAF8;
+    margin-top: -77px;
+    border-top: 0px;
+}
+.php-3{
+	border: 1px solid rgba(128, 128, 128, 0.46);
+    margin-top: -227px;
+    padding: 65px 10px;
+    margin-left: -30px;
+    border-top: 0px;
+    border-left: 0px;
+	background: #9FC5E8;
+}
+.php-3 span{}
+.{}
+.{}
+.{}
+.wordpress-22 span{}
+.wordpress-0{}
+.wordpress-3{}
+.wordpress-33{
+    border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-top: -78px;
+    margin-left: -31px;
+    border-top: 1p;
+    padding: 2px;
+    background: #9fc5e8;
+}
+.wordpress-33 span{}
+.wordpress-44{
+	border: 1px solid rgba(128, 128, 128, 0.51);
+    margin-left: -31px;
+    border-top: 0px;
+    padding: 5px;
+    background: #9fc5e8;
+}
+.wordpress-44 span{}
+.wordpress-4{
+    border: 1px solid gray;
+    margin-left: -30px;
+    background: #76A5AF;
+    padding: 52px 5px;
+    margin-top: -127px;
+    border-top: 0px;
+}
+.wordpress-4 span{}
+.design{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
